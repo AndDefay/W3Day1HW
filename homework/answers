@@ -19,3 +19,41 @@ for (let i = 1; i <= 100; i++) {
         console.log('FizzBuzz')
     }
 }
+//Fizz Buzz Problems
+
+//plantee.age = 17
+//wolfy.hometown = "Gotham City"
+//d'art.hometown = `"Upside Down" + " Hawkins"`
+//wolfy.name = "Gameboy"
+
+//Wild Wild Life answered
+
+const ninjaTurtles['Donatello', 'Leonardo', 'Raphael', 'Michaelangelo' ]
+
+//Yell at the Ninja Turtles problems
+
+//console.log(favMovies[8]);
+//favMovies.sort();
+//favMovies.pop();
+//favMovies.push("Guardians of the Galaxy")
+//favMovies.reverse();
+//favMovies.shift();
+//['Jaws', 'The Fellowship of the Ring', 'Howl\'s Moving Castle', 'Django Unchained', 'Cloud Atlas', 'The Usual Suspects', 'Toy Story', 'Conan the Barbarian', 'Titanic', 'Harry Potter', 'Fried Green Tomatoes', 'Volver', 'Oculus', 'Seven', 'Black Panther', 'Harry Potter', 'Imitation of Life', 'Snatch', 'Fast and Furious']
+//favMovies.splice("Django Unchained", "Avatar")
+//const favMovies2 = favMovies.slice(9,18);
+//console.log(favMovies2);
+//['Titanic', 'Harry Potter', 'Fried Green Tomatoes', 'Volver', 'Oculus', 'Seven', 'Black Panther', 'Harry Potter', 'Imitation of Life', 'Snatch', 'Fast and Furious']
+//Undefined
+
+//Methods Revisted answered
+
+//whereIsWaldo.splice(1,1)
+//
+//
+
+//Where is Waldo Problems
+
+//
+//
+
+//Excited Kittens Problems
